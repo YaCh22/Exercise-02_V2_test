@@ -5,6 +5,9 @@ date: "2024-01-28"
 ---
 Test
 
+```{r}
+print("test")
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
